@@ -1,4 +1,4 @@
-# Air Quality Detection System
+# Air Quality Detection System (Group Project)
 
 ### Introduction
 Indoor air quality (IAQ) is an important factor that affects our daily lives.This project attempted to build an Air Quality Detection system using fuzzy logic. 
